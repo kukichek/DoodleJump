@@ -6,4 +6,8 @@ Desktop game written in C++ with the help of SFML.
 В игре кроме реализовано меню с возможностью смены игрока, 
 добавления нового игрока и сохранением максимального счета для текущего игрока.
 
-![Альтернативный текст](https://github.com/kukichek/DoodleJump/blob/master/screenshots/StartMenuFirstGame.png "Первый запуск")
+![Первый запуск](https://github.com/kukichek/DoodleJump/blob/master/screenshots/StartMenuFirstGame.png)
+
+![Главное меню, стандартный вид](https://github.com/kukichek/DoodleJump/blob/master/screenshots/StartMenuHightScorePlusSelection.png)
+
+![Игровой процесс](https://github.com/kukichek/DoodleJump/blob/master/screenshots/Gameplay.png)
