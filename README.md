@@ -7,7 +7,5 @@ Desktop game written in C++ with the help of SFML.
 добавления нового игрока и сохранением максимального счета для текущего игрока.
 
 ![Первый запуск](https://github.com/kukichek/DoodleJump/blob/master/screenshots/StartMenuFirstGame.png)
-
 ![Главное меню, стандартный вид](https://github.com/kukichek/DoodleJump/blob/master/screenshots/StartMenuHightScorePlusSelection.png)
-
 ![Игровой процесс](https://github.com/kukichek/DoodleJump/blob/master/screenshots/Gameplay.png)
