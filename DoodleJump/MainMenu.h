@@ -74,7 +74,9 @@ public:
 					item[iMenu].setColor(Color::Yellow);
 				}
 				if (Keyboard::isKeyPressed(Keyboard::Enter)) {
-					return iMenu;
+					if (!scoreTable.empty() || iMenu > 2) {
+						return iMenu;
+					}
 				}
 			}
 
